@@ -42,8 +42,6 @@
 </style>
 
 <template>
-  <router-view>
-    <p class="local-color-primary">111</p>
-  </router-view>
+  <router-view></router-view>
 </template>
 
